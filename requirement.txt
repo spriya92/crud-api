@@ -1,0 +1,5 @@
+psycopg2==2.7.*  #Suggested version by DM
+Django==3.0.2
+djangorestframework==3.10.0
+psycopg2==2.7.*
+requests
